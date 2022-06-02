@@ -16,6 +16,18 @@
 - implement my own learning about typescript
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Preview Web Screenshot
+<div>
+<img src="Images/websiteScreenshot.png" width='400'>
+<img src="Images/websiteScreenshot2.png" width='400'>
+</div>
+
+## Preview Web Screenshot responsive mobile & Tab design
+<div class="row">
+<img src="Images/mobileResponsive.png" width='200'>
+<img src="Images/TabResponsive.png" width='400'>
+</div>
+
 
 ## Technologies Used
 - React
@@ -23,7 +35,7 @@
 - Tailwind Css
 - HeroIcons
 - React-twitter-embed
-
+- Typescript
 
 ## Features
 List the ready features here:
@@ -63,6 +75,7 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Developer Sonny Sangha Youtube Channel
+- Hopefully open for someone can go branch and do PR for this repository
 
 ## Resource 
 - [https://rnfirebase.io/database/usage](https://www.youtube.com/watch?v=rCselwxbUgA)
